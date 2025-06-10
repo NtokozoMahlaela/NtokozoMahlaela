@@ -4,8 +4,8 @@
 
 ## 💻 About Me
 
-I'm a passionate and curious **Software Developer** with a strong foundation in **front-end and web development**.  
-I hold a **Diploma degree in Information Technology **, and I’m always eager to build smart, user-focused digital solutions.
+I'm a passionate and curious **Software Developer** with a strong foundation in **Front-end Development and Web Development**.  
+I currently hold a **Diploma in Information Technology with overrall Distinction**, and I’m always eager to build smart, user-focused digital solutions.
 
 ---
 
@@ -52,7 +52,7 @@ I hold a **Diploma degree in Information Technology **, and I’m always eager t
 - Email: `ntokozomahlaela@gmail.com`  
 - LinkedIn: [linkedin.com/in/ntokozo-mahlaela](https://www.linkedin.com/in/ntokozo-mahlaela)  
 - GitHub: [@NtokozoMahlaela](https://github.com/NtokozoMahlaela)  
-- Portfolio: 
+- Portfolio: https://ntokozomahlaela-portfolio.netlify.app/ 
 
 ---
 

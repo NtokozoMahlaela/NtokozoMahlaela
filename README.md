@@ -50,7 +50,8 @@ I currently hold a **Diploma in Information Technology with overrall Distinction
 
 ## 📫 How to Reach Me
 - Email: ntokozomahlaela@gmail.com  
-- LinkedIn: [linkedin.com/in/ntokozo-mahlaela](https://www.linkedin.com/in/ntokozo-mahlaela)  
+- LinkedIn: [linkedin.com/in/ntokozo-mahlaela](www.linkedin.com/in/
+ntokozo-mahlaela-3b4317250)  
 - GitHub: [@NtokozoMahlaela](https://github.com/NtokozoMahlaela)  
 - Portfolio: https://ntokozomahlaela-portfolio.netlify.app/ 
 

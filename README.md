@@ -13,13 +13,13 @@ I currently hold a **Diploma in Information Technology with overrall Distinction
 - **Languages:** JavaScript (ES6+), TypeScript, Java, HTML5, CSS3, 
 - **Frameworks & Libraries:** React, Node.js, Express, TailwindCSS, Spring Boot
 - **Database:** MongoDB, MySQL, Firebase
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Figma, Netlify, Vercel
-- **AI Tools:** OpenAI API, Hugging Face (NLP)
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Netlify, Vercel
+- **AI Tools:** OpenAI API, 
 
 ---
 
 ## 🌱 Currently Learning
-- AI-Powered App Development (LLMs + NLP)
+- AI-Powered App Development 
 - Next.js & Advanced React Patterns
 - CI/CD with GitHub Actions
 - Cloud Deployment with AWS & Docker

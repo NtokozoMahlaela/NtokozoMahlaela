@@ -23,6 +23,7 @@ I currently hold a **Diploma in Information Technology with overrall Distinction
 - Next.js & Advanced React Patterns
 - CI/CD with GitHub Actions
 - Cloud Deployment with AWS & Docker
+- Angular
 
 ---
 

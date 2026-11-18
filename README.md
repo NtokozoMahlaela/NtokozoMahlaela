@@ -12,7 +12,7 @@ I currently hold a **Diploma in Information Technology with overrall Distinction
 ## 🚀 Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, Java, HTML5, CSS3, 
 - **Frameworks & Libraries:** React, Node.js, Express, TailwindCSS, Spring Boot
-- **Database:** MongoDB, MySQL, Firebase
+- **Database:** MongoDB, MySQL, Superbase
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Netlify, Vercel
 - **AI Tools:** OpenAI API, 
 
